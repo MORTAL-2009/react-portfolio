@@ -8,7 +8,7 @@ const projects = [
     tags: ['React', 'Tailwind CSS', 'Vite', 'UI/UX Design'],
     status: 'Live',
     demoUrl: '#home',
-    githubUrl: 'https://github.com/',
+    githubUrl: 'https://github.com/MORTAL-2009',
     featured: true,
     accentColor: '#c91f2e',
     highlights: [
@@ -26,7 +26,7 @@ const projects = [
     tags: ['React', 'CSS Grid', 'Responsive', 'Commerce UI'],
     status: 'In Progress',
     demoUrl: '#',
-    githubUrl: 'https://github.com/',
+    githubUrl: 'https://github.com/MORTAL-2009',
     featured: true,
     accentColor: '#e0283b',
     highlights: [
@@ -44,7 +44,7 @@ const projects = [
     tags: ['JavaScript', 'API Integration', 'UI Prototyping'],
     status: 'Experiment',
     demoUrl: '#',
-    githubUrl: 'https://github.com/',
+    githubUrl: 'https://github.com/MORTAL-2009',
     featured: false,
     accentColor: '#96111e',
     highlights: [
@@ -62,7 +62,7 @@ const projects = [
     tags: ['React', 'Local Storage', 'Tailwind CSS'],
     status: 'Experiment',
     demoUrl: '#',
-    githubUrl: 'https://github.com/',
+    githubUrl: 'https://github.com/MORTAL-2009',
     featured: false,
     accentColor: '#c91f2e',
     highlights: [
